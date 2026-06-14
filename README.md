@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20689062.svg)](https://doi.org/10.5281/zenodo.20689062)
 # Cold Stress Prediction in Cold‑Region Open Fields using Multimodal Time‑Series Data and LSTM
 
 This repository contains the source code, pre‑trained model, and dataset for the paper:  

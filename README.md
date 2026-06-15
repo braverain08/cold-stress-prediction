@@ -188,7 +188,7 @@ The paper's Table 2 is printed by `test_pretrained.py`; Table 3 by `threshold_st
 
 ## Data Availability
 
-The original dataset (`final_dataset.csv`), all source code, and the pre‑trained model weights are permanently archived on Zenodo at [https://doi.org/10.5281/zenodo.20687984](https://doi.org/10.5281/zenodo.20687984). They are provided under a CC BY‑NC 4.0 license (data) and MIT license (code).
+The original dataset (`final_dataset.csv`), all source code, and the pre‑trained model weights are permanently archived on Zenodo at [https://doi.org/10.5281/zenodo.20689062](https://doi.org/10.5281/zenodo.20689062). They are provided under a CC BY‑NC 4.0 license (data) and MIT license (code).
 All processed `.npy` files can be regenerated using `fill_and_prepare.py`. For the exact pre‑trained model weights, see `lstm_model_complete.pth`.
 
 ## License
